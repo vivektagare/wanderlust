@@ -35,7 +35,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 3. **Install Required Dependencies**
 
    ```bash
-    # installs NVM (Node Version Manager)
+    # installs NVM 
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 
     # download and install Node.js
